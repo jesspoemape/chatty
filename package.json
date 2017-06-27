@@ -1,0 +1,24 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "\"REST-based chat server\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesspoemape/chatty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jesspoemape/chatty/issues"
+  },
+  "homepage": "https://github.com/jesspoemape/chatty#readme"
+}
